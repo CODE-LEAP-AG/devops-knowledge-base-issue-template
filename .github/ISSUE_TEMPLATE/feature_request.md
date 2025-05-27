@@ -18,3 +18,6 @@ _What you will do with this task?_
 # Acceptance Criteria
 
 _The definition of done of this task_
+
+- [ ] AC1
+- [ ] AC2
